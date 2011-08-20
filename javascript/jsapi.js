@@ -2,7 +2,7 @@
  * @fileOverview Black Lotus Project JavaScript API
  * Uses data from http://blacklotusproject.com/json
  *
- * @author: Ross Allen
+ * @author: <a href="http://github.com/ssorallen/">Ross Allen</a>
  * @version: 1.0.0
  */
 (function() {
